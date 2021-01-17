@@ -17,16 +17,6 @@ console.log(randomarr);
 
 
 
-/*Fire Work*/
-
-
-
-// function firework()
-// {
-    
-// }
-
-
 
 function showBomb(cellid1)
 {
