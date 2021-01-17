@@ -15,9 +15,6 @@ while(randomarr.length < 10){
 
 console.log(randomarr);
 
-
-
-
 function showBomb(cellid1)
 {
     for(i=0;i<10;i++)
@@ -27,7 +24,6 @@ function showBomb(cellid1)
         document.getElementById("cell_" + cell).style.backgroundColor="red";
     }
     
-    // firework();
 }
 
 var cnt=0;
